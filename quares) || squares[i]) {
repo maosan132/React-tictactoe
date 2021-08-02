@@ -1,0 +1,53 @@
+[33mcommit 4d878d6a52a25eb332c19cdac1728b9dc965444b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: maosan132 <maosan132@gmail.com>
+Date:   Mon Aug 2 17:50:08 2021 -0500
+
+    Changed calculatewinner to old named function, because with arrow function dodn't work
+
+[33mcommit 943ae3b4f53d89fe7bcea1337c0b6bc15038292c[m
+Author: maosan132 <maosan132@gmail.com>
+Date:   Mon Aug 2 17:30:59 2021 -0500
+
+    Made a function that recognizes the winner
+
+[33mcommit d9057517de6039151f516520e6d31f33d8f63252[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: maosan132 <maosan132@gmail.com>
+Date:   Mon Aug 2 17:21:39 2021 -0500
+
+    Status text now renders which turn is
+
+[33mcommit 8af0b6cd9e8eb17ec619c80120c574579b466175[m
+Author: maosan132 <maosan132@gmail.com>
+Date:   Mon Aug 2 17:18:16 2021 -0500
+
+    done the x - o alternancy
+
+[33mcommit 790efd0a56ffe6a06977f1ec2b03b2536f19094e[m
+Author: maosan132 <maosan132@gmail.com>
+Date:   Mon Aug 2 16:31:33 2021 -0500
+
+    Found a way to alternate between x and o
+
+[33mcommit 106f349877c06159d6263a3ffe27c36d94d27c0f[m
+Author: maosan132 <maosan132@gmail.com>
+Date:   Mon Aug 2 16:22:50 2021 -0500
+
+    Changed square component to functional component
+
+[33mcommit b4f5803bcfc5f2d11aaf3dc8abf2064dfb22ce49[m
+Author: maosan132 <maosan132@gmail.com>
+Date:   Mon Aug 2 14:24:41 2021 -0500
+
+    Deleted constructor in square constructor 'cause we are no longer use state here
+
+[33mcommit e7392ddde437d76e47f284236b1bd9454744c5de[m
+Author: maosan132 <maosan132@gmail.com>
+Date:   Mon Aug 2 14:21:42 2021 -0500
+
+    We send down two props: value and click now
+
+[33mcommit 997b0ab6bd8d9a1b44b01229c4e5a51b53ebc57b[m
+Author: maosan132 <maosan132@gmail.com>
+Date:   Mon Aug 2 10:00:19 2021 -0500
+
+    created a react scaffolding and then moved all files inside main folder to the root
